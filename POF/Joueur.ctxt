@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Joueur
+comment0.text=\r\n\ @author\ AGOUZZAL\ &\ LECHLECH\u0000\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=Joueur()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Joueur\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNomJoueur()
+comment3.params=
+comment3.target=int\ getNumJoueur()
+comment4.params=
+comment4.target=java.lang.String\ getNomClub()
+comment5.params=nouveauNom
+comment5.target=void\ setNomJoueur(java.lang.String)
+comment6.params=nouveauNum
+comment6.target=void\ setNumJoueur(int)
+comment7.params=nouveauNum
+comment7.target=void\ changerPoste(int)
+comment7.text=\r\n\ m\u00E9thode\ pour\ changer\ le\ poste\ d'un\ joueur\r\n
+numComments=8
